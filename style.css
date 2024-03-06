@@ -1,6 +1,10 @@
 .titulo {
-width: %;
+width: 35%;
 }
 .body {
 background-color: black;
+}
+
+.paragrafo1 {
+ width: 15%;
 }
