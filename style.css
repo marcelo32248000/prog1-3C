@@ -1,5 +1,6 @@
 .titulo {
 width: 35%;
+color: rgb(255, 255, 255);
 }
 .body {
  background-image: linear-gradient(black; #808080);
@@ -7,4 +8,5 @@ width: 35%;
 
 .paragrafo1 {
  width: 15%;
+ color: aliceblue;
 }
