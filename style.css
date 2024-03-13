@@ -1,6 +1,7 @@
 .titulo {
-width: 35%;
-color: rgb(255, 255, 255);
+width: 60px;
+color: rgb(0, 0, 0);
+align-items: center;
 }
 .body {
  background-image: linear-gradient(black; #808080);
